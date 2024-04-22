@@ -1,2 +1,2 @@
 # IBMDashboardsProject
-Its a markdown file in this repository
+This contains both dashboards for this assignment
